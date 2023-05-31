@@ -1,0 +1,49 @@
+/* Write your CSS code here */
+.h {
+  color: #ea580c;
+}
+.form {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.but {
+  background-color: #ea580c;
+  color: white;
+}
+.cen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hlo {
+  display: flex;
+  flex-direction: column;
+}
+.nameInp {
+  width: 200px;
+  margin-bottom: 10px;
+}
+.but {
+  margin-bottom: 10px;
+}
+.nn {
+  margin-top: 10px;
+}
+.p {
+  color: red;
+}
+.hh {
+  font-size: 16px;
+}
+.mid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
